@@ -1,0 +1,15 @@
+D:\DevProjects\R&D XNA\XNAMachinationisRatio v0.3\XNAMachinationisRatio\FishORama\FishORamaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevProjects\R&D XNA\Fishorama_v1.0_XNAMR_v0.3\XNAMachinationisRatio v0.3\XNAMachinationisRatio\FishORama\FishORamaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevProjects\R&D XNA\Fishorama_v1.0_XNAMR_v0.31_Excercise\FishORama_XNAMachinationisRatio\FishORama\FishORamaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevProjects\R&D XNA\Fishorama_v1.0_XNAMR_v0.31\FishORama_XNAMachinationisRatio\FishORama\FishORamaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevProjects\R&D XNA\XNAMachinationisRatio v0.4\XNAMachinationisRatio\FishORama\FishORamaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Devilly\Desktop\FishTank Current Version With Examples\XNAMachinationisRatio v0.4\XNAMachinationisRatio\FishORama\FishORamaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio v0.4\XNAMachinationisRatio\FishORama\FishORamaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio\FishORama\FishORamaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio\FishORama\FishORamaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio_FinalProject\FishORama\FishORamaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\concepts to contruction\semester 2\XNAMachinationisRatio_FinalProject\FishORama\FishORamaContent\obj\x86\Debug\FishORamaContent.contentprojResolveAssemblyReference.cache
+M:\concepts to contruction\assignment 2\FishORama\FishORamaContent\obj\x86\Debug\FishORamaContent.contentprojResolveAssemblyReference.cache
+E:\1st Year\concepts to contruction\assignment 2\FishORama\FishORamaContent\obj\x86\Debug\FishORamaContent.contentprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\assignment 2\FishORama\FishORamaContent\obj\x86\Debug\FishORamaContent.contentprojResolveAssemblyReference.cache
+M:\1st Year\concepts to contruction\assignment 2\FishORama\FishORamaContent\obj\x86\Debug\FishORamaContent.contentprojResolveAssemblyReference.cache

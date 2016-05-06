@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNAMachinationisRatio", "XNAMachinationisRatio\XNAMachinationisRatio.csproj", "{1C099E70-4881-452A-BC39-9100F4743E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishORama", "FishORama\FishORama\FishORama.csproj", "{D0099FC0-E3DC-4880-98E9-04B7D37F385B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishORamaContent", "FishORama\FishORamaContent\FishORamaContent.contentproj", "{C5251C86-371E-427C-9481-C2D9D11C4044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C099E70-4881-452A-BC39-9100F4743E8A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1C099E70-4881-452A-BC39-9100F4743E8A}.Debug|x86.ActiveCfg = Debug|x86
+		{1C099E70-4881-452A-BC39-9100F4743E8A}.Debug|x86.Build.0 = Debug|x86
+		{1C099E70-4881-452A-BC39-9100F4743E8A}.Release|Any CPU.ActiveCfg = Release|x86
+		{1C099E70-4881-452A-BC39-9100F4743E8A}.Release|x86.ActiveCfg = Release|x86
+		{1C099E70-4881-452A-BC39-9100F4743E8A}.Release|x86.Build.0 = Release|x86
+		{D0099FC0-E3DC-4880-98E9-04B7D37F385B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D0099FC0-E3DC-4880-98E9-04B7D37F385B}.Debug|x86.ActiveCfg = Debug|x86
+		{D0099FC0-E3DC-4880-98E9-04B7D37F385B}.Debug|x86.Build.0 = Debug|x86
+		{D0099FC0-E3DC-4880-98E9-04B7D37F385B}.Release|Any CPU.ActiveCfg = Release|x86
+		{D0099FC0-E3DC-4880-98E9-04B7D37F385B}.Release|x86.ActiveCfg = Release|x86
+		{D0099FC0-E3DC-4880-98E9-04B7D37F385B}.Release|x86.Build.0 = Release|x86
+		{C5251C86-371E-427C-9481-C2D9D11C4044}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C5251C86-371E-427C-9481-C2D9D11C4044}.Debug|x86.ActiveCfg = Debug|x86
+		{C5251C86-371E-427C-9481-C2D9D11C4044}.Release|Any CPU.ActiveCfg = Release|x86
+		{C5251C86-371E-427C-9481-C2D9D11C4044}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

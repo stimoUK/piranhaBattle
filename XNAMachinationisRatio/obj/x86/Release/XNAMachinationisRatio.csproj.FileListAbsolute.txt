@@ -1,0 +1,6 @@
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Release\XNAMachinationisRatio.dll
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Release\XNAMachinationisRatio.pdb
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Release\XNAMachinationisRatio.dll
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Release\XNAMachinationisRatio.pdb

@@ -1,0 +1,72 @@
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+C:\Users\Valerio\Documents\Visual Studio 2010\Projects\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+D:\DevProjects\R&D XNA\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+D:\DevProjects\R&D XNA\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+D:\DevProjects\R&D XNA\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevProjects\R&D XNA\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\DevProjects\R&D XNA\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+D:\DevProjects\R&D XNA\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+C:\Users\Devilly\Desktop\FishTank Current Version With Examples\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+C:\Users\Devilly\Desktop\FishTank Current Version With Examples\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+C:\Users\Devilly\Desktop\FishTank Current Version With Examples\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Devilly\Desktop\FishTank Current Version With Examples\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Devilly\Desktop\FishTank Current Version With Examples\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+C:\Users\Devilly\Desktop\FishTank Current Version With Examples\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio v0.4\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+C:\Users\Devilly\Desktop\FishORama\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+D:\Data\Uni Worcester\2011-12.1st_COMP2231 - Object-Oriented Design & Development\Resources\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+E:\concepts to contruction\semester 2\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+E:\concepts to contruction\semester 2\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+E:\concepts to contruction\semester 2\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.csprojResolveAssemblyReference.cache
+E:\concepts to contruction\semester 2\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\concepts to contruction\semester 2\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+E:\concepts to contruction\semester 2\XNAMachinationisRatio_FinalProject\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+M:\concepts to contruction\assignment 2\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+M:\concepts to contruction\assignment 2\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+M:\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+M:\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+M:\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+M:\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.csprojResolveAssemblyReference.cache
+E:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+E:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+E:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.csprojResolveAssemblyReference.cache
+E:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+E:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+\\Mac\Home\Desktop\assignment 2\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+\\Mac\Home\Desktop\assignment 2\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+\\Mac\Home\Desktop\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\assignment 2\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\Mac\Home\Desktop\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+\\Mac\Home\Desktop\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
+M:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.dll
+M:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\bin\x86\Debug\XNAMachinationisRatio.pdb
+M:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.csprojResolveAssemblyReference.cache
+M:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+M:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.dll
+M:\1st Year\concepts to contruction\assignment 2\XNAMachinationisRatio\obj\x86\Debug\XNAMachinationisRatio.pdb
